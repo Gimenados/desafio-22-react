@@ -30,6 +30,7 @@ code {
 h1 {
   letter-spacing: 0.2rem;
   text-align: center;
+  text-transform: uppercase;
 }
 
 .formContainer label, .formContainer input {
@@ -62,6 +63,8 @@ button {
   background-color: rgba(165, 42, 42, 0.486); 
   border-radius: 20px;
   border: none;
+  font-weight: 700;
+  letter-spacing: 0.2rem;
 }
 
 button:hover {
