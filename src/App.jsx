@@ -30,7 +30,7 @@ const App = () => {
     <div className='formContainer'>
       <form>
 
-      <h1>Formulario</h1>
+      <h1>Ingrese Aquí</h1>
       <label>
         Nombre:
       </label>
